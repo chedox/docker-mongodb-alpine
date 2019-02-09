@@ -28,3 +28,8 @@ That's to put -v ~/usr/apps/docker_data/mongodb:/data/db
 MongoDB GUI interface
 ------------------------
 To use mongoDB GUI browser, you can use Robomongo.
+
+To find Ip Address, type this command:
+
+docker inspect (containerid)
+
